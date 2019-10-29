@@ -43,8 +43,8 @@ authors:
     name: hoechenberger
     orcid: xxxx-xxxx-xxxx-xxxx
   - affiliation: 12
-    name: dominikwelke
-    orcid: xxxx-xxxx-xxxx-xxxx
+    name: Dominik Welke
+    orcid: 0000-0002-5529-1998
   - affiliation: 13
     name: Clemens Brunner
     orcid: 0000-0002-6030-2233
@@ -78,7 +78,7 @@ affiliations:
 - index: 11
   name:
 - index: 12
-  name:
+  name: Max-Planck-Institute for Empirical Aesthetics, Frankfurt a.M., Germany
 - index: 13
   name: Institute of Psychology, University of Graz, Austria
 - index: 14
