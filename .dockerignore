@@ -1,0 +1,26 @@
+# directories
+
+build/
+dist/
+doc/
+examples/
+paper/
+*egg*/
+.git/
+.github/
+.circleci/
+.pytest_cache_/
+mne_bids/__pycache__/
+mne_bids/tests/
+mne_bids/commands/tests
+mne_bids/commands/__pycache__
+
+# single files
+
+.pytest_cache
+.coveragerc
+.gitignore
+CITATION.cff
+Makefile
+.gitignore
+CONTRIBUTING.md
