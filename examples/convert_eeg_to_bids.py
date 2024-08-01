@@ -114,7 +114,7 @@ raw.info["line_freq"] = 50  # specify power line frequency as required by BIDS
 
 # Get the electrode coordinates
 testing_data = mne.datasets.testing.data_path()
-captrak_path = op.join(testing_data, "montage", "captrak_coords.bvct")
+captrak_path = testing_data / "montage" /"captrak_coords.bvct"
 montage = mne.channels.read_dig_captrak(captrak_path)
 
 # Rename the montage channel names only for this example, because as said
